@@ -1,0 +1,2 @@
+# alldomainmints
+Created with CodeSandbox
